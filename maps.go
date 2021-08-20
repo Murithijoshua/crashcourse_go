@@ -3,20 +3,20 @@ package main
 import "fmt"
 
 func main() {
-	emails := make(map[string]string)
+	brodiamyzalius@gmail.coms := make(map[string]string)
 	// assiging key value pairs method 1
 
-	emails["bob"] = "bob@yahoo.com"
-	emails["brian"] = "brian@yahoo.com"
-	emails["mary"] = "mary@yahoo.com"
-	fmt.Println(emails)
-	fmt.Println(len(emails))
-	fmt.Println(emails["mary"])
+	brodiamyzalius@gmail.coms["bob"] = "bob@yahoo.com"
+	brodiamyzalius@gmail.coms["brian"] = "brian@yahoo.com"
+	brodiamyzalius@gmail.coms["mary"] = "mary@yahoo.com"
+	fmt.Println(brodiamyzalius@gmail.coms)
+	fmt.Println(len(brodiamyzalius@gmail.coms))
+	fmt.Println(brodiamyzalius@gmail.coms["mary"])
 
 	// deleting map object
 
-	delete(emails, "Bob")
-	fmt.Println(emails)
+	delete(brodiamyzalius@gmail.coms, "Bob")
+	fmt.Println(brodiamyzalius@gmail.coms)
 
 	// assinging key valuepairs
 

@@ -6,8 +6,7 @@
 ***
 ***
 ***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** github_username, repo_name, twitter_handle, email, project_title, project_description
+***
 -->
 
 
@@ -36,19 +35,19 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">project_title</h3>
+  <h3 align="center">go crash course by brad</h3>
 
   <p align="center">
-    project_description
+    Introuduction to go programming language
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Murithijoshua/crashcourse_go"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/Murithijoshua/crashcourse_go">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/Murithijoshua/crashcourse_go/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/Murithijoshua/crashcourse_go/issues">Request Feature</a>
   </p>
 </p>
 
@@ -85,18 +84,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-Here's a blank template to get started:
-**To avoid retyping too much info. Do a search and replace with your text editor for the following:**
-`github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
 
 
 ### Built With
 
-* []()
-* []()
-* []()
+* [Go](https://golang.org/)
 
 
 
@@ -107,21 +101,21 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+For linux based uses, you can install golang through this command
 * npm
   ```sh
-  npm install npm@latest -g
+  sudo apt install golang
   ```
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/Murithijoshua/crashcourse_go.git
    ```
-2. Install NPM packages
+2. To run individual file
    ```sh
-   npm install
+   go run "file"
    ```
 
 
@@ -129,16 +123,14 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [golang documentation](https://golang.org)_
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Murithijoshua/crashcourse_go/issues) for a list of proposed features (and known issues).
 
 
 
@@ -165,18 +157,17 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/myzaliusjoshua) - email
+Name - [@MyzaliusJoshua](https://twitter.com/myzaliusjoshua) - brodiamyzalius@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/Murithijoshua/crashcourse_go](https://github.com/Murithijoshua/crashcourse_go)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* []()
-* []()
-* []()
+* [brad traversy](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
+
 
 
 
@@ -184,15 +175,15 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Murithijoshua/repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/Murithijoshua/crashcourse_go/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Murithijoshua/repo.svg?style=for-the-badge
+[forks-url]: https://github.com/Murithijoshua/crashcourse_go/network/members
+[stars-shield]: https://img.shields.io/github/stars/Murithijoshua/repo.svg?style=for-the-badge
+[stars-url]: https://github.com/Murithijoshua/crashcourse_go/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Murithijoshua/repo.svg?style=for-the-badge
+[issues-url]: https://github.com/Murithijoshua/crashcourse_go/issues
+[license-shield]: https://img.shields.io/github/license/Murithijoshua/repo.svg?style=for-the-badge
+[license-url]: https://github.com/Murithijoshua/crashcourse_go/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username
+[linkedin-url]: https://linkedin.com/in/Murithijoshua
