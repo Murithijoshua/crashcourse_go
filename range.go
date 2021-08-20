@@ -6,7 +6,8 @@ func main() {
 	ids := []int{12, 13, 15, 17, 3, 0, 5, 7, 3, 6, 8}
 	// loop using range taking account index
 	for i, id := range ids {
-		fmt.Printf("%d and number %d\n", i, id)
+		new := []int{id}
+		fmt.Printf("%d and number %d %d\n ", i, id, new)
 
 	}
 	for _, id := range ids {
