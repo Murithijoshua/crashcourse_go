@@ -32,7 +32,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Murithijoshua/crashcourse_go">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://golang.org/lib/godoc/images/go-logo-blue.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">go crash course by brad</h3>
